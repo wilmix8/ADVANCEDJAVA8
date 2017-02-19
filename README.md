@@ -6,7 +6,7 @@ ADVANCEDJAVA8   is focused  on   Advanced  Technologies  simillar  to JdollarPar
 
 AS  JAVA  SOURCE  CODE  CAN  BE EASILY TAKEN USING  JAD Decompiler . JAVA/J2ee Fails  completly.
 
-So any offices  who implement   JAVA source  code can be  eaily taken be hackers thru internet.
+So any offices  who implement   JAVA source  code can be  easily taken by hackers thru internet.
 
 1) ADVANCEDJAVA8   is very simple when  compare  to Spring ,Struts, JSF.
 
