@@ -94,4 +94,4 @@ It is the best Programming language which interact with AJAVA2.
 =================================
 AJAVA2  is focused  on  interaction  with JSWORD.
 
-Note: Here  we use  only   JAVA.exe  and JAVA .dll 
+Note: Here  we use  only   ADVANCED JAVA ".exe"  and ADVANCED JAVA ".dll" 
