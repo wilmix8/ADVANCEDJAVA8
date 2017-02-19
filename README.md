@@ -85,11 +85,7 @@ It is the best Programming language which interact with AJAVA2.
 
 20) AJAVA2JSLASH => it is an one minute Automation WEB Advanced P.L
 
-21) SAP =>interaction with sap P.L
-
-22) PHY=> Interaction with phython P.L.
-
-23) 
+21) 
   AJAVA2  Advanced Business
 =================================
 AJAVA2  is focused  on  interaction  with JSWORD.
