@@ -1,7 +1,7 @@
 # ADVANCEDJAVA8
 ===============
 
-ADVANCEDJAVA8   is focused  on   Advanced  Technologies  simillar  to JdollarPart2. which   is   invented    by wilmix jemin j  in  JAS P.L @2017
+ADVANCEDJAVA8   is focused  on   Advanced  Technologies  simillar  to JdollarPart2. which   is   invented    by wilmix jemin j  in  JAS P.L @2017 focused  for  webapplication.
 
 
 AS  JAVA  SOURCE  CODE  CAN  BE EASILY TAKEN USING  JAD Decompiler . JAVA/J2ee Fails  completly.
