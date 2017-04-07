@@ -91,3 +91,6 @@ It is the best Programming language which interact with AJAVA2.
 AJAVA2  is focused  on  interaction  with JSWORD.
 
 Note: Here  we use  only   ADVANCED JAVA ".exe"  and ADVANCED JAVA ".dll" 
+
+
+22)  AJAVA8   is  also  a  Part   of  JDollarpart2 , here  we  can use  JAVA7.
